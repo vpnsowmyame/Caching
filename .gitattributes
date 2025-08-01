@@ -1,0 +1,15 @@
+# Set default behavior
+* text=auto
+
+# Explicitly set line endings for certain file types
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Binary files that should not be changed
+*.png binary
+*.jpg binary
+*.svg binary
+*.woff2 binary
